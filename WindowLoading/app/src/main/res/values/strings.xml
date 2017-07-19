@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WindowLoading</string>
+    <string name="loading_ellicpse">加载中…</string>
+    <string name="second">第二页</string>
+</resources>
