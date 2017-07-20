@@ -9,7 +9,7 @@
 
 # 核心代码
 ```
-/**
+    /**
      * 显示加载中弹框（如果当前计数为0，显示弹框，如果大于0，表示弹框已经显示）
      * {@link BaseActivity#mShowLoadingDialogCount}
      */
